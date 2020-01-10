@@ -1,5 +1,7 @@
+from utilities.getEmails import getEmails
 
-def addnumbers(number1, number2):
-    return number1+number2
 
-print(addnumbers(3,2))
+
+if __name__ == '__main__':
+    print(getEmails())
+    
