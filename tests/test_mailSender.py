@@ -1,5 +1,5 @@
 import pytest
-from mail_sender import addnumbers
+from samplenumbers import addnumbers
 
 
 def test_answer():
